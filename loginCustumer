@@ -1,0 +1,30 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Login | Unity Server</title>
+  <link rel="stylesheet" href="asset/css/login.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700">
+</head>
+
+<body>
+<div class="container">
+  <div id="login">
+    <form action="" method="post">
+      <fieldset class="clearfix">
+         <p><span class="fontawesome-user"></span><input type="text" name="email" maxlength="30" value="Email" onBlur="if(this.value == '') this.value = 'Email'" onFocus="if(this.value == 'Email') this.value = ''" required></p> <!-- JS because of IE support; better: placeholder="Email" -->
+         <p><span class="fontawesome-lock"></span><input type="password" name="password" maxlength="30" value="Password" onBlur="if(this.value == '') this.value = 'Password'" onFocus="if(this.value == 'Password') this.value = ''" required></p> <!-- JS because of IE support; better: placeholder="Password" -->
+         
+         		 
+         <p><input type="submit" name="login" value="Sign In"></p>
+
+      </fieldset>
+    </form>
+        <p>Forget Password? <a href="forgot.php">Reset Password</a></p>
+   </div> <!-- end login -->
+</div>
+
+</body>
+</html>
