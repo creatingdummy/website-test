@@ -1,0 +1,580 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<!--<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'f877ba62-ce5a-45a6-870c-b1983425c0eb', f: true }); done = true; } }; })();</script>
+-->
+	<!-- Define Charset -->
+    <meta charset="utf-8">
+
+    <!-- Page Title -->
+    <title>DummyVPN</title>
+
+    <!-- Responsive Metatag -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<!-- <meta http-equiv="X-UA-Compatible" content="IE=9" />-->
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="asset/blog/css/vendors/bootstrap.min.css">
+
+	<!-- Font icons: Fontello -->
+	<link rel="stylesheet" href="asset/blog/css/vendors/fontello.css" />
+
+    <!-- Owl Carousel -->
+	<link rel="stylesheet" href="asset/blog/css/vendors/owl.carousel.css" >
+	<link rel="stylesheet" href="asset/blog/css/vendors/owl.theme.css">
+
+	<!-- Custom CSS -->
+    <link rel="stylesheet" href="asset/blog/css/styles.css">
+
+    <!--Slider Revolution-->
+    <link rel="stylesheet" href="asset/blog/js/vendors/revolution/css/settings.css">
+    <link rel="stylesheet" href="asset/blog/js/vendors/revolution/css/extralayers.css" />
+
+    <!-- Web Fonts: Lato and Raleway, from Google Fonts -->
+     <link href='http://fonts.googleapis.com/css?family=Raleway:500,800,700,900,400,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic,700italic' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Media queries -->
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+
+	<!-- Header -->
+	<header>
+		<!-- begin Navbar -->
+		<nav class="navbar" role="navigation">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<h4><font color="green">DummyVPN</font></h4>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse">
+					<ul class="nav navbar-nav menu-effect">
+						<li><a href="index.php">Home</a></li>
+						<li><a href="costumer/login.php">Login Costumer</a></li>
+						<li><a href="login.php">Login Reseller</a></li>
+						<li><a href="https://app.purechat.com/w/zyaya">Chat us</a></li>
+					</ul>
+				</div><!--/.nav-collapse -->
+			</div>
+		</nav>
+		<!-- end Navbar -->
+	</header>
+	<!-- end Header -->
+
+	<!-- Revolution Slider -->
+	<section class="slider">
+		<div class="tp-banner-container">
+			<div class="tp-banner2" >
+				<ul>
+					<!-- Slider 1 -->
+					<li data-transition="zoomout" data-slotamount="5" data-masterspeed="1200" data-saveperformance="off" data-title="Intro Slide" data-end="8000" data-endspeed="1000">
+						<!-- MAIN IMAGE -->
+						<img src="asset/blog/img/revolutionslider/dummy.png"  alt="slidebg1" data-lazyload="asset/blog/img/revolutionslider/slidebg1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
+						<!-- LAYERS -->
+
+						<!-- LAYER NR. 2 -->
+						<div class="tp-caption ticket lft customout rs-parallaxlevel-0"
+							data-x="680"
+							data-y="-120"
+							data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+							data-speed="650"
+							data-start="1700"
+							data-easing="Power3.easeInOut"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9600"
+							data-endspeed="1000"
+							style="z-index: 3;">
+						</div>
+						<!-- LAYER NR. 3 -->
+						<div class="tp-caption ticket lft customout rs-parallaxlevel-0"
+							data-x="750"
+							data-y="-40"
+							data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+							data-speed="1000"
+							data-start="1600"
+							data-easing="Power3.easeInOut"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9800"
+							data-endspeed="1000"
+							style="z-index: 4;">
+						</div>
+
+						<!-- LAYER NR. 8 -->
+						<div class="tp-caption light_heavy_70_shadowed lfr randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="133"
+							data-speed="1000"
+							data-start="2500"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9600"
+							data-endspeed="1000"
+							style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">SSH (Secure Shell)
+						</div>
+
+						<!-- LAYER NR. 9 -->
+						<div class="tp-caption black_heavy_60 customin randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="200"
+							data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+							data-speed="1000"
+							data-start="2600"
+							data-easing="Power4.easeOut"
+							data-splitin="chars"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9800"
+							data-endspeed="1000"
+							style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">Unlimited!
+						</div>
+
+						<!-- LAYER NR. 10 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="320"
+							data-speed="1000"
+							data-start="3100"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10000"
+							data-endspeed="1000"
+							style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>24/7 Full Access Server
+						</div>
+
+						<!-- LAYER NR. 11 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="360"
+							data-speed="1000"
+							data-start="3200"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10200"
+							data-endspeed="1000"
+							style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>Squid Proxy Lock IP
+						</div>
+
+						<!-- LAYER NR. 12 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="400"
+							data-speed="1000"
+							data-start="3300"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10350"
+							data-endspeed="1000"
+							style="z-index: 13; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>Support Android, Ios, Windows.
+						</div>
+
+						<!-- LAYER NR. 13 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="440"
+							data-speed="1000"
+							data-start="3400"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10600"
+							data-endspeed="1000"
+							style="z-index: 14; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>Support Download, Streaming, Gaming
+						</div>
+
+						<!-- LAYER NR. 14 -->
+						<div class="tp-caption green_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="480"
+							data-speed="1000"
+							data-start="3500"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10800"
+							data-endspeed="1000"
+							style="z-index: 15; max-width: auto; max-height: auto; white-space: nowrap;"><a href="register.php" class="btn">Get Startded</a>
+						</div>
+					</li>
+
+					<!-- Slider 2 -->
+					<li data-transition="zoomout" data-slotamount="5" data-masterspeed="1200" data-saveperformance="off"  data-title="Intro Slide">
+						<!-- MAIN IMAGE -->
+						<img src="asset/blog/img/revolutionslider/dummy.png"  alt="slidebg1" data-lazyload="asset/blog/img/revolutionslider/slidebg2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						<!-- LAYERS -->
+
+						<!-- LAYER NR. 2 -->
+						<div class="tp-caption ticket lft customout rs-parallaxlevel-0"
+							data-x="800"
+							data-y="-120"
+							data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+							data-speed="650"
+							data-start="1700"
+							data-easing="Power3.easeInOut"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9600"
+							data-endspeed="1000"
+							style="z-index: 3;">
+						</div>
+						<!-- LAYER NR. 3 -->
+						<div class="tp-caption ticket lft customout rs-parallaxlevel-0"
+							data-x="750"
+							data-y="-40"
+							data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+							data-speed="600"
+							data-start="1600"
+							data-easing="Power3.easeInOut"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9600"
+							data-endspeed="1000"
+							style="z-index: 4;">
+						</div>
+
+						<!-- LAYER NR. 8 -->
+						<div class="tp-caption light_heavy_70_shadowed lfr randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="133"
+							data-speed="1000"
+							data-start="2500"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9600"
+							data-endspeed="1000"
+							style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">VPN (Virtual Private Server)
+						</div>
+
+						<!-- LAYER NR. 9 -->
+						<div class="tp-caption black_heavy_60 customin randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="200"
+							data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+							data-speed="1000"
+							data-start="2600"
+							data-easing="Power4.easeOut"
+							data-splitin="chars"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="9800"
+							data-endspeed="1000"
+							style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">Unlimited!
+						</div>
+
+						<!-- LAYER NR. 10 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="320"
+							data-speed="1000"
+							data-start="3100"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10000"
+							data-endspeed="1000"
+							style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>24/7 Full Access Server
+						</div>
+
+						<!-- LAYER NR. 11 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="360"
+							data-speed="1000"
+							data-start="3200"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10200"
+							data-endspeed="1000"
+							style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>Squid Proxy (Lock IP)
+						</div>
+
+						<!-- LAYER NR. 12 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="400"
+							data-speed="1000"
+							data-start="3300"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10350"
+							data-endspeed="1000"
+							style="z-index: 13; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>Data Protected
+						</div>
+
+						<!-- LAYER NR. 13 -->
+						<div class="tp-caption black_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="440"
+							data-speed="1000"
+							data-start="3400"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10600"
+							data-endspeed="1000"
+							style="z-index: 14; max-width: auto; max-height: auto; white-space: nowrap;"><i class="icon-right-circled"></i>Support Gaming, Downloads, Streamin (Android, Ios, Windows).
+						</div>
+
+						<!-- LAYER NR. 14 -->
+						<div class="tp-caption green_bold_bg_20 skewfromright randomrotateout tp-resizeme rs-parallaxlevel-10"
+							data-x="-2"
+							data-y="480"
+							data-speed="1000"
+							data-start="3500"
+							data-easing="Power3.easeInOut"
+							data-splitin="none"
+							data-splitout="none"
+							data-elementdelay="0.1"
+							data-endelementdelay="0.1"
+							data-end="10800"
+							data-endspeed="1000"
+							style="z-index: 15; max-width: auto; max-height: auto; white-space: nowrap;"><a href="register.php" class="btn">Get Startded</a>
+						</div>
+					</li>
+
+					
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- end Revolution Slider -->
+
+	
+	<!-- Features -->
+	<section class="generic">
+		<div class="container">
+			<h3 class="section-title">Our Services</h3>
+			<div class="row">
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-1.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Sevice SSH & VPN Premium</h4>
+						<div class="text"><p>With SSH/VPN Premium Full Manage, And You Will Getting Full Support & Service</p></div>
+					</div>
+				</div>
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-2.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Squid Proxy (Lock IP)</h4>
+						<div class="text"><p>Squid Proxy (Lock Ip) Protected Personal Access</p></div>
+					</div>
+				</div>
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-3.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Low Cost Month</h4>
+						<div class="text"><p>Get SSH/VPN Very Low Cost But Full Support & Service</p></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-4.png" alt="icon">
+					<div class="content">
+						<h4 class="title">High Protect Data</h4>
+						<div class="text"><p>Using SSH/VPN = Personal Network, You Will Get Personal Access (Protected Data) From Internet </p></div>
+					</div>
+				</div>
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-5.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Support Android > Ios > Windows</h4>
+						<div class="text"><p>Full Support For Device Android, Ios, Windows.</p></div>
+					</div>
+				</div>
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-6.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Support >Gaming > Streaming > Download</h4>
+						<div class="text"><p>Full Support For Gaming, Streaming, Downloads.</p></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-7.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Access Server 24/7</h4>
+						<div class="text"><p>SSH/VPN Full Access Server 24/7 From Your Account Premium.</p></div>
+					</div>
+				</div>
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-8.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Unlimited Trafic</h4>
+						<div class="text"><p>Unmetered/Unlimited Bandwith From You Account Premium .</p></div>
+					</div>
+				</div>
+				<div class="col-sm-4 icon-entry">
+					<img src="asset/blog/img/icon-9.png" alt="icon">
+					<div class="content">
+						<h4 class="title">Full Speed Server</h4>
+						<div class="text"><p>No Limit Speed From Server, With Premium SSH/VPN You Will Get Full Speed Access.</p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- end Features -->
+
+	
+	<!-- Pricing -->
+	<section class="pricing arrow generic" id="pricing">
+		<div class="container">
+			<h3 class="section-title">Our Plans</h3>
+			<div class="row">
+				
+							</div>
+		</div>
+	</section>
+	<!-- end Pricing -->
+
+	<!-- Facilities -->
+
+	<article class="skin_base">
+		<h4 class="text-center">Need Help? WhatsApp : +6016-4968761
+</h4>
+	</article>
+	<!-- end Facilities -->
+
+	
+	<!-- Footer -->
+	<footer>
+		<div class="footer-top">
+			<div class="container">
+
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6"><p class="down">© <a href="index.php">SSH & VPN Premium</a> - Power By <a href="http://dummyvpn.pw/">DummyVPN</a>. <p></div>
+					<div class="col-sm-6">
+						<ul class="social-links">
+							<li>
+								<a href="https://m.facebook.com/DummyVpnssh-1644457592535480/" title="Facebook" class="tooltips">
+									<i class="icon-facebook"></i>
+									<span>Facebook</span>
+								</a>
+							</li>
+							<li>
+								<a href="https://twitter.com/mustachethemes" title="Twitter" class="tooltips">
+									<i class="icon-twitter"></i>
+									<span>Twitter</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" title="Pinterest" class="tooltips">
+									<i class="icon-pinterest"></i>
+									<span>Pinterest</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" title="Linkedin" class="tooltips">
+									<i class="icon-linkedin"></i>
+									<span>Linkedin</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" title="Youtube" class="tooltips">
+									<i class="icon-play"></i>
+									<span>Youtube</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- end Footer -->
+	<a href="#" class="scrollup"><i class="icon-up-open"></i></a>
+
+
+	<!-- ======================= JQuery libs =========================== -->
+	<!-- jQuery -->
+	<script src="asset/blog/js/vendors/jquery/jquery-1.11.3.min.js"></script>
+
+	<!-- Respond.js media queries for IE8 -->
+	<script src="asset/blog/js/vendors/respond.min.js"></script>
+
+	<!-- Bootstrap-->
+	<script src="asset/blog/js/vendors/bootstrap.min.js" ></script>
+
+	<script src="asset/blog/js/vendors/jquery/jquery.nav.js" ></script>
+
+	<!-- Slider Revolution -->
+	<script src="asset/blog/js/vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+	<script src="asset/blog/js/vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+	<!-- Owl Carousel -->
+	<script src="asset/blog/js/vendors/owl.carousel.min.js" ></script>
+
+	<!-- bgYtVideo -->
+	<script src="asset/blog/js/vendors/jquery.bgYtVideo.js" ></script>
+
+	<!-- Gmaps -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true" ></script>
+	<script src="asset/blog/js/vendors/gmaps.js" ></script>
+
+	<!-- Fleckr Feed -->
+	<script src="asset/blog/js/vendors/jflickrfeed.js" ></script>
+
+	<script src="asset/blog/js/script.js"></script>
+	 <script>
+			function scrollWin() {
+				alert("Contact Me"+"\n"+"Whatsapp 1 : +6016-4968761"+"\n"+"WhatsApp 2 : +60 12-752 1781"+"\n"+"Email : Fadhil.Morshidi2676@Gmail.com");
+			}
+		</script>
+
+</body>
+</html>
